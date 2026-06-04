@@ -33,6 +33,13 @@ captures/
 logs/
 pcap/
 
+# Environment
+.env.local
+.env.production
+
+# Vercel
+.vercel
+
 # Docker
 docker-compose.override.yml
 
