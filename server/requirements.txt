@@ -16,4 +16,4 @@ dpkt==1.9.8
 kafka-python==2.0.2
 minio==7.2.7
 prometheus-client==0.20.0
-scikit-learn==1.4.1.post1
+scikit-learn==1.5.0
